@@ -25,3 +25,19 @@ header{
     text-decoration-line: underline;
     text-decoration-style: dashed;
 }
+
+.bold-text{
+    font-weight:bold;
+}
+
+#intro{
+    font-weight: 300;
+}
+
+*{
+    font-family: Arial, sans-serif;
+}
+
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
