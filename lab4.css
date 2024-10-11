@@ -17,8 +17,12 @@ header{
 
 }
 
-.center{
+#center{
     text-align: center;
+}
+
+a{
+    text-decoration: none;
 }
 
 .head{
@@ -40,4 +44,17 @@ header{
 
 .custom-font{
     font-family: 'Times New Roman', serif;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
+}
+
+footer{
+    background: blue;
+    color: white;
 }
