@@ -1,8 +1,27 @@
 header{
     background-color: blue;
-    ;
+    color: white;
 }
-#container{
+
+.container{
     background-color: lightgrey;
-    
+    color: red;
+}
+
+.highlight{
+    color: green;
+}
+
+.main-content{
+    background-color: rgb(229, 229, 147);
+
+}
+
+.center{
+    text-align: center;
+}
+
+.head{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
 }
